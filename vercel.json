@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/anime-servers", "destination": "/api/anime-servers" },
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
